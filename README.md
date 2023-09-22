@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on some new ideas
 - 📫 How to reach me just throw a mail.
 - I am currently doing some Interesting Projects. Due to the restriction from My professsors I cannot share the code Right Now.
-- Please Be Patient It will be upoladed as soon as I get permission.
+- Please Be Patient It will be uploaded as soon as I get permission.
 - If you do like to know what I am doing now? Feel free to reach me out through email.
 <!---
 azam-tents/azam-tents is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
